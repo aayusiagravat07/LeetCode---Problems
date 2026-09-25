@@ -15,5 +15,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aayusiagravat07/LeetCode---Problems/tree/master/0009-palindrome-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aayusiagravat07/LeetCode---Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
